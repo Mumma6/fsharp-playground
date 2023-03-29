@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yORimoKrL+KQlvfC+h3dZ6n/yqWJUA/EA3my33vQjMiX4BTKNSzf3agpmtr2VFvmKt+znVnPlgrtZFWNWtfJjA==",
+  "success": true,
+  "projectFilePath": "D:\\Programmerings saker\\f#\\f# kurs pluralsight\\fsharp\\fsharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
